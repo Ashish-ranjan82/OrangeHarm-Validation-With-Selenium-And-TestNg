@@ -79,19 +79,6 @@ This project is a Selenium-based automation test suite designed to validate the 
 
 - **Thread.sleep**: Used for demonstration purposes to wait before quitting the browser. For production code, consider using WebDriverWait for better control over element visibility.
 
-## Contributing
 
-Contributions are welcome! Please fork this repository, create a feature branch, and submit a pull request.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- [OrangeHRM](https://www.orangehrm.com/) for providing the demo site used for testing.
-- The Selenium and TestNG communities for their documentation and support.
-
----
-
-This README should provide a comprehensive overview of your project and guide users through setting up and running your tests.
